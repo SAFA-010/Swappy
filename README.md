@@ -1,47 +1,55 @@
-# [Project Name] 🎯
 
+# Swappy 🎯
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: Swappy
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Safa Fathima - College of Engineering Perumon
+- Member 2: Suhana S R - College of Engineering Perumon
+- Member 3: Krishna P - College of Engineering Perumon
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[Insert your hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Swappy is an intuitive platform designed to facilitate product swapping among students. No logins required—just swap and meet!
 
-### The Problem statement
-[What ridiculous problem are you solving?]
+### The Problem Statement
+Students often find themselves with extra items or things they no longer need, but struggle to find a good place to exchange them. We’re solving the hassle of buying new products by creating an easy way to swap items with others.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Swappy allows students to directly swap their items with others. You can simply post what you want to swap, browse available products, find a match, and meet up to complete the exchange. It’s efficient and eco-friendly!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML, CSS, JavaScript
+- Node.js (for backend)
+- MongoDB (for data storage)
+- Express.js (web framework)
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- N/A (Software-based project)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+1. Clone the repository:
+   ```
+   git clone [repository-link]
+   ```
+2. Install dependencies:
+   ```
+   npm install
+   ```
 
 # Run
-[commands]
+1. Start the development server:
+   ```
+   npm start
+   ```
+2. Open your browser and visit `http://localhost:3000` to view the app.
 
 ### Project Documentation
 For Software:
@@ -60,28 +68,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
@@ -91,9 +77,14 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- **Safa Fathima**: Led the design and user interface development, integrated MongoDB with Node.js backend, and handled styling with CSS.
+- **Suhana S R**: Developed the product-swapping functionality, wrote backend logic with Express.js, and helped with database integration.
+- **Krishna P**: Worked on the frontend logic and implemented search and filter features, helped in UI/UX design.
 
 ---
+
 Made with ❤️ at TinkerHub
+
+---
+
+You can customize it further with specific links or images. Let me know if you'd like to add more details!
