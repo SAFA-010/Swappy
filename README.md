@@ -54,19 +54,14 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Scr![Screenshot 2025-02-09 102920](https://github.com/user-attachments/assets/0b0e01ee-42e9-4040-96a0-ef3416479512)
-eenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots (Add at least 3))
 
-![Screen![Screenshot 2025-02-09 102845](https://github.com/user-attachments/assets/94c6ccf0-f5dc-4e08-808b-d6274055356a)
-shot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2025-02-09 102845](https://github.com/user-attachments/assets/fc4a84e6-5fd9-44d4-acac-ce2f39b47cd3)
+frontend of the page
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
+# Diagrams![Screenshot 2025-02-09 102920](https://github.com/user-attachments/assets/ba8f2e8b-a5e0-4150-9cc2-f0acb638ddbf)
+
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
