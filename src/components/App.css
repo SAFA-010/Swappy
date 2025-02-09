@@ -1,0 +1,87 @@
+/* General Styles 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  */
+  body {
+    background-color: #f4f4f9;
+    height: 100vh;
+  }
+  
+  /* Header Styles */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .logo {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .auth-buttons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .auth-btn {
+    padding: 8px 15px;
+    background-color: #ffffff;
+    border: none;
+    color: #4CAF50;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .auth-btn:hover {
+    background-color: #ddd;
+  }
+  
+  /* Swap Section */
+  .swap-section {
+    margin: 50px auto;
+    width: 80%;
+    max-width: 600px;
+  }
+  
+  .swap-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .input-bar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .product-input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    font-size: 16px;
+  }
+  
+  .swap-btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .swap-btn:hover {
+    background-color: #45a049;
+  }
+  
